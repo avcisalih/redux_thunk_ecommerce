@@ -1,6 +1,4 @@
-Tabii, işte bu kodların bulunduğu bir proje için GitHub açıklaması:
 
----
 
 # React E-Ticaret Uygulaması
 
